@@ -39,8 +39,8 @@ Aside from coding, I enjoy exploring new **technologies and tools**, reading **t
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%23E34F26.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23E34F26.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Tailwind](https://img.shields.io/badge/Tailwind-%23E34F26.svg?style=for-the-badge&logo=Tailwind&logoColor=white) 
-![ReactJs](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Tailwind](https://img.shields.io/badge/tailwind-%23E34F26.svg?style=for-the-badge&logo=tailwind&logoColor=white) 
+![ReactJs](https://img.shields.io/badge/react-%23E34F26.svg?style=for-the-badge&logo=react&logoColor=white) 
 ![Rudex Tookit](https://img.shields.io/badge/rudex-%23E34F26.svg?style=for-the-badge&logo=rudex&logoColor=white) 
 
 
@@ -48,7 +48,7 @@ Aside from coding, I enjoy exploring new **technologies and tools**, reading **t
 ![Nodejs](https://img.shields.io/badge/nodejs-%23E34F26.svg?style=for-the-badge&logo=nodejs&logoColor=white) 
 ![express](https://img.shields.io/badge/express-%23E34F26.svg?style=for-the-badge&logo=express&logoColor=white) 
 ![nestjs](https://img.shields.io/badge/nestjs-%23E34F26.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
-![Npm](https://img.shields.io/badge/npm-%2320232a.svg?style=for-the-badge&logo=npm&logoColor=%2361DAFB) 
+![Npm](https://img.shields.io/badge/npm-%23E34F26.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
