@@ -18,11 +18,11 @@ Aside from coding, I enjoy exploring new **technologies and tools**, reading **t
 
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/IslamSayedGalal](https://www.facebook.com/profile.php?id=100010258274334)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islam-sayed-galal-0a1b651b4) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13846168/eslam-sayed-galal) [![Email](https://img.shields.io/badge/Email-%231DA1F2.svg?logo=Email&logoColor=white)](**eslamgalal0312@gmail.com**) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@islamgalal4847) 
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ## Languages and Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -48,12 +48,11 @@ Aside from coding, I enjoy exploring new **technologies and tools**, reading **t
 ![Nodejs](https://img.shields.io/badge/nodejs-%23E34F26.svg?style=for-the-badge&logo=nodejs&logoColor=white) 
 ![express](https://img.shields.io/badge/express-%23E34F26.svg?style=for-the-badge&logo=express&logoColor=white) 
 ![nestjs](https://img.shields.io/badge/nestjs-%23E34F26.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
-![Tailwind](https://img.shields.io/badge/Tailwind-%23E34F26.svg?style=for-the-badge&logo=Tailwind&logoColor=white) 
 ![Npm](https://img.shields.io/badge/npm-%2320232a.svg?style=for-the-badge&logo=npm&logoColor=%2361DAFB) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-## Back-End Tools
+## DataBase Tools
 ![MongoDB](https://img.shields.io/badge/mongoDB-%23E34F26.svg?style=for-the-badge&logo=mongoDB&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/oracle-%23E34F26.svg?style=for-the-badge&logo=oracle&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23E34F26.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -68,7 +67,7 @@ Aside from coding, I enjoy exploring new **technologies and tools**, reading **t
 
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Status
 ![](https://github-readme-stats.vercel.app/api?username=IslamSayedGalal&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IslamSayedGalal&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamSayedGalal&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
